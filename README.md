@@ -10,13 +10,13 @@ I make weekly trips to pick up the freshest and rarest groceries around. A frien
 # Grasshoppers
 ![alt text](grasshopper.JPG "grasshopper")
 # Manzano Chili with black seeds!
-![alt text](manzano.JPG "manzano")
+![alt text](manzano.JPEG "manzano")
 # Fresh Peppers!
 ![alt text](peppers.JPG "p1")
 ![alt text](peppers2.JPEG "p2")
 # Awesome Snacks
 ![alt text](snacks.JPG "snacks")
-![alt text](takis.JPG "takis")
+![alt text](taki.JPG "takis")
 # Blue Tortillas
 ![alt text](tortillas.JPG "blue")
 # Tuna with Corn and Tajin
